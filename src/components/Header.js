@@ -41,7 +41,13 @@ class Header extends React.Component {
 
                 </Navbar>
 
-
+                <Router>
+                    <Switch>
+                        <Route exact path="/" component={Home}/>
+                        <Route exact path="/digest" component={Digest}/>
+                        <Route exact path="/contacts" component={Contacts}/>
+                    </Switch>
+                </Router>
 
 
             </>

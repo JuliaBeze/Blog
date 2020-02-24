@@ -1,10 +1,11 @@
 import React, {Component} from "react";
+import CarouselBox from "../components/CarouselBox"
 
 class Home extends Component {
     render() {
-        debugger
+
         return <div>
-            Home kkkkkkk
+            <CarouselBox/>
         </div>
     }
 
