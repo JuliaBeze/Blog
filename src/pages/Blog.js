@@ -1,6 +1,6 @@
 import React from "react";
 
- class Digest extends React.Component{
+ class Blog extends React.Component{
     render() {
         return <div>
            kiicicmccmcm
@@ -9,4 +9,4 @@ import React from "react";
 
 }
 
-export default Digest;
+export default Blog;
