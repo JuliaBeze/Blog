@@ -32,7 +32,6 @@ class About extends React.Component {
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
                                     </p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey = "second">
@@ -41,7 +40,6 @@ class About extends React.Component {
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
                                     </p>
                                 </Tab.Pane>
                                 <Tab.Pane  eventKey = "third" >
@@ -59,7 +57,6 @@ class About extends React.Component {
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
                                     </p>
                                 </Tab.Pane>
                             </Tab.Content>
